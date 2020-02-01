@@ -1,0 +1,2 @@
+# Mobile-Learning-Application
+Built a new feature “Messenger” in existing student portal to help in communication with encryption-decryption of a message to provide security. Also, provided delete for everyone and delete for me feature like Whatsapp. I have used “Android” and “.NET” for front-end and back-end respectively and Amazon Web Service’s EC2 server to deploy application and RDS to store database on cloud.
